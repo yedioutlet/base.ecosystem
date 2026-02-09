@@ -5,3 +5,4 @@ Exploring apps built on Base.
 - NFT marketplaces
 - Social apps
 - Payment apps
+- Lending platforms
