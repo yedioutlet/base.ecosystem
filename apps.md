@@ -6,3 +6,4 @@ Exploring apps built on Base.
 - Social apps
 - Payment apps
 - Lending platforms
+- Prediction markets
