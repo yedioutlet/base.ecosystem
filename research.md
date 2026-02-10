@@ -6,3 +6,4 @@ Learning about Base ecosystem growth.
 - Following Base ecosystem updates.
 - Monitoring ecosystem adoption.
 - Watching ecosystem partnerships.
+- Observing developer adoption trends.
