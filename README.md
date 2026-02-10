@@ -6,3 +6,4 @@ Day 2: Continuing Base ecosystem research.
 - [x] Reached 50 commits milestone
 Day 4: Tracking Base ecosystem projects.
 Day 5: Continuing ecosystem tracking.
+Day 6: Monitoring Base growth.
