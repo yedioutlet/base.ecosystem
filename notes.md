@@ -5,3 +5,4 @@ Tracking small learnings.
 - Base ecosystem expanding rapidly.
 - More developers building on Base.
 - Tracking new ecosystem launches.
+- New Base projects launching weekly.
