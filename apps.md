@@ -7,3 +7,4 @@ Exploring apps built on Base.
 - Payment apps
 - Lending platforms
 - Prediction markets
+- DAO tools
