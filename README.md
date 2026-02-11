@@ -7,3 +7,4 @@ Day 2: Continuing Base ecosystem research.
 Day 4: Tracking Base ecosystem projects.
 Day 5: Continuing ecosystem tracking.
 Day 6: Monitoring Base growth.
+Day 7: Continuing ecosystem tracking.
