@@ -6,3 +6,4 @@ Tracking small learnings.
 - More developers building on Base.
 - Tracking new ecosystem launches.
 - New Base projects launching weekly.
+- Following Base announcements.
