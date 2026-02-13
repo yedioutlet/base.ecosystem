@@ -8,3 +8,4 @@ Exploring apps built on Base.
 - Lending platforms
 - Prediction markets
 - DAO tools
+- Stablecoin apps
