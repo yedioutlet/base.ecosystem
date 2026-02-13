@@ -7,3 +7,4 @@ Tracking small learnings.
 - Tracking new ecosystem launches.
 - New Base projects launching weekly.
 - Following Base announcements.
+- Observing ecosystem metrics.
