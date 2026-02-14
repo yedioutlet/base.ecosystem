@@ -3,3 +3,4 @@
 update ideas
 - Onchain analytics dashboards.
 - Mobile onchain tools.
+- Beginner friendly dApps.
