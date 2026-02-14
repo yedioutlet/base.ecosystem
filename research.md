@@ -9,3 +9,4 @@ Learning about Base ecosystem growth.
 - Observing developer adoption trends.
 - Tracking ecosystem statistics.
 - Tracking ecosystem maturity.
+- Monitoring new project launches.
