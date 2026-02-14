@@ -9,3 +9,4 @@ Exploring apps built on Base.
 - Prediction markets
 - DAO tools
 - Stablecoin apps
+- Identity apps
