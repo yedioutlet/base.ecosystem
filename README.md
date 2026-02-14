@@ -9,3 +9,4 @@ Day 5: Continuing ecosystem tracking.
 Day 6: Monitoring Base growth.
 Day 7: Continuing ecosystem tracking.
 Day 8: Tracking Base developments.
+Day 9: Finalizing ecosystem notes.
