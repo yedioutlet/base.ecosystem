@@ -10,3 +10,4 @@ Exploring apps built on Base.
 - DAO tools
 - Stablecoin apps
 - Identity apps
+- Governance apps
